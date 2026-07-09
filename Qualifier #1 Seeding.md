@@ -8,7 +8,7 @@
 
 [UKIC Masters | Season 11 | Qualifier 1](https://www.faceit.com/en/championship/ebaaaed6-b362-478c-9174-dbdf1901fd72/UKIC%20Masters%20%7C%20Season%2011%20%7C%20Qualifier%201)
 
-| Seed | Team | VRS [EU] | UKIC | ESEA S56 AVG | AVG ELO |
+| Seed | Team | VRS [EU] | UKIC | ESEA S57 AVG | AVG ELO |
 |---:|---|---:|---|---:|---:|
 | 1 | The Last Resort | 90 | Masters 1st | 1 | 3344.8 |
 | 2 | dripmen | 160 | Masters 2nd | 2 | 3378.4 |
